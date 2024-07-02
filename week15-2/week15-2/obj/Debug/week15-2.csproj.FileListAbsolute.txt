@@ -1,0 +1,10 @@
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\bin\Debug\week15-2.exe.config
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\bin\Debug\week15-2.exe
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\bin\Debug\week15-2.pdb
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15-2.csproj.AssemblyReference.cache
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15_2.Form1.resources
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15_2.Properties.Resources.resources
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15-2.csproj.GenerateResource.cache
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15-2.csproj.CoreCompileInputs.cache
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15-2.exe
+C:\Users\a0983\OneDrive\桌面\HW11-1\week15-2\week15-2\obj\Debug\week15-2.pdb
